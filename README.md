@@ -1,2 +1,2 @@
-# node-simple-app
-Node.js simple app without any authentication
+# node-simple-app-with-schema
+Node.js simple app with schema and authentication
