@@ -1,0 +1,22 @@
+[
+  {
+    "login": "manager_alex",
+    "token": "dsalfkj1l2k34jl12k3j4l1k23j41234",
+    "type": "manager"
+  },
+  {
+    "login": "employee_andrew",
+    "token": "dasflkj12l3k4j1l2k3j4l1k2j3l4kj12",
+    "type": "employee"
+  },
+  {
+    "login": "employee_mark",
+    "token": "qweQlvkvvortngFmfnfqwer",
+    "type": "employee"
+  },
+  {
+    "login": "manager_john",
+    "token": "fdslkfqw,mnvdldskgfjlqkwer",
+    "type": "manager"
+  }
+]

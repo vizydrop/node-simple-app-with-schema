@@ -1,0 +1,22 @@
+[
+  {
+    "name": "sofa",
+    "price": 200,
+    "quantity": 3
+  },
+  {
+    "name": "picture",
+    "price": 40,
+    "quantity": 20
+  },
+  {
+    "name": "table",
+    "price": 200,
+    "quantity": 3
+  },
+  {
+    "name": "chair",
+    "price": 50,
+    "quantity": 4
+  }
+]

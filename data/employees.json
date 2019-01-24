@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Andrew",
+    "age": 25,
+    "salary": 12000
+  },
+  {
+    "name": "Mark",
+    "age": 21,
+    "salary": 30000
+  },
+  {
+    "name": "Alex",
+    "age": 36,
+    "salary": 31000
+  },
+  {
+    "name": "John",
+    "age": 35,
+    "salary": 32500
+  },
+  {
+    "name": "Philip",
+    "age": 32,
+    "salary": 12500
+  },
+  {
+    "name": "Kate",
+    "age": 18,
+    "salary": 16800
+  },
+  {
+    "name": "Liza",
+    "age": 28,
+    "salary": 40000
+  },
+  {
+    "name": "David",
+    "age": 45,
+    "salary": 14800
+  },
+  {
+    "name": "Bruce",
+    "age": 34,
+    "salary": 12800
+  },
+  {
+    "name": "Brad",
+    "age": 26,
+    "salary": 24300
+  },
+  {
+    "name": "Alina",
+    "age": 19,
+    "salary": 13900
+  }
+]
